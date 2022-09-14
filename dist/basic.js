@@ -85,3 +85,5 @@ function getArray(items) {
 }
 const numArr = getArray([1, 2, 3, 4]);
 const strArr = getArray(['Neil', 'James', 'Tony']);
+// ADVANCE TYPESCRIPT
+// in Operator
